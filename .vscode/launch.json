@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CrudDeforestacionApiApplication<cruddeforestacionapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.empresa.cruddeforestacionapi.CrudDeforestacionApiApplication",
+            "projectName": "cruddeforestacionapi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
